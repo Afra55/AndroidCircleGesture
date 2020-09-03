@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="CircleView">
+
+        <attr name="circleViewPlayIc" format="color|reference" />
+        <attr name="circleViewCircleDashColor" format="color" />
+        <attr name="circleViewCircleColor" format="color" />
+    </declare-styleable>
+</resources>
